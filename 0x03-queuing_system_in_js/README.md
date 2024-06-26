@@ -56,7 +56,7 @@ OK
 src/redis-cli get Holberton
 ```
  Expected output:
-```arduino
+```bash
 "School"
 ```
 
